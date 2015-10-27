@@ -1,0 +1,27 @@
+#header {
+    text-align:center;
+    padding:5px;
+    margin-bottom: 1%;
+}
+#main {
+	margin-left: 4%;
+	margin-right: 4%;
+}
+#footer {
+    text-align:center;
+   	padding:5px;	 	 
+}
+
+.navbar-brand{
+    padding:5px 15px;
+}
+
+.thumbnail {
+    height:300px;
+}
+
+.form-actions {
+    position: absolute;
+    bottom: 40px;
+    left: 37%;   
+}

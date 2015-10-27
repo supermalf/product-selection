@@ -1,0 +1,31 @@
+{
+  "name": "product-selection-ui",
+  "description": "Client side for Product Selection Tool",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "gulp-uglify": "^1.2.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-template-compile": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-webserver": "^0.9.1",
+    "gulp-tar": "^1.4.0",
+    "gulp-gzip": "^1.2.0",
+    "run-sequence": "^1.1.2",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-jasmine": "^0.3.6",
+    "karma-coffee-preprocessor": "^0.3.0",
+    "karma-phantomjs-launcher": "^0.2.1"
+  }
+}

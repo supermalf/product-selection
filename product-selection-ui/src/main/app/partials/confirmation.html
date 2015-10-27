@@ -1,0 +1,12 @@
+<div class="container-fluid">
+    <div class="jumbotron">
+        <h1>Thank you, customer #{{userId}}!</h1>
+        <br>
+
+        <p> You successfully purchased the following channels: </p>
+        <ul ng-repeat="channel in basket | orderBy:'' ">
+            <li>{{channel}}</li>
+        </ul>
+    </div>
+
+</div>
