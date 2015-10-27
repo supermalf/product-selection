@@ -1,6 +1,9 @@
 PRODUCT SELECTION
 -----------------
 
+![alt tag](https://dl.dropboxusercontent.com/u/12985734/product-selection.png)
+
+
 ##How to run the application
 * Start the backend server with the following command:
     * $ mvn -f ./product-selection-api/pom.xml spring-boot:run -Dspring.profiles.active=sandbox
