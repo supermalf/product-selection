@@ -6,7 +6,7 @@ PRODUCT SELECTION
 
 ##How to run the application
 * Start the backend server with the following command:
-    * $ mvn -f ./product-selection-api/pom.xml spring-boot:run -Dspring.profiles.active=sandbox
+    * $ mvn -f ./product-selection-api/pom.xml spring-boot:run
 
 * Start the frontend server:
     * $ cd ./product-selection-ui/
