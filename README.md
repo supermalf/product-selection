@@ -6,6 +6,7 @@ PRODUCT SELECTION
 
 ##How to run the application
 * Start the backend server with the following command:
+    * $ mvn clean compile
     * $ mvn -f ./product-selection-api/pom.xml spring-boot:run
 
 * Start the frontend server:
